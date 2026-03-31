@@ -1,4 +1,12 @@
-## Hi there 👋
+ ### 👾 System Logs: anonmanprog
+
+- **Status:** Compiling... (maybe)
+- **Primary OS:** Stack Overflow.
+- **Goal:** To write code so clean even I understand it six months from now.
+
+**I’m currently:**
+- 🛠️ Breaking things so I can learn how to fix them.
+-
 
 <!--
 **anonmanprog/anonmanprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
